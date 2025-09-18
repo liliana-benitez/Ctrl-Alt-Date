@@ -16,7 +16,7 @@
 - Deployment: Netlify
 
 ## 🎬 Live Demo
-[Try it here](https://ctrl-alt-date.netlify.app/)
+Try it here: [Ctrl-Alt-Date](https://ctrl-alt-date.netlify.app/)
 
 ## 💻 Installation (if you want to run it locally)
 1. Clone the repo:  
