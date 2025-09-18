@@ -1,7 +1,9 @@
 # Ctrl-Alt-Date
 
-- ❤️ A Love Project ❤️
+- A Love Project
 - This app was created as a Valentine's Day gift for my boyfriend
+
+![Keyboard](/ctrl-alt-date.png)
 
 ## 🚀 Features
 - Interactive keyboard: click a letter to reveal fun date ideas 
